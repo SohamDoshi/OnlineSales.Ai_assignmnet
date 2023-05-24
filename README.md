@@ -104,9 +104,14 @@ Newly created Ouput folder
 
 ![output](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/d02ef4d2-21e1-4ffe-a81b-2a4b08f7e2cc)
 
-Report.xlxs file
+Report.xlxs file path
 
 ![reportxx](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/5fecac08-43f2-4100-8c10-f56e85759ec0)
+
+Report.xlsx file
+
+![Reportinside](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/26697a84-a6f2-4ac7-8409-5ca614a2110a)
+
 
 <h2>Task 2 Script</h2>
 
@@ -160,5 +165,11 @@ And Output folder will be created in your Task2_CVS folder like this
 Inside this output folder you will find report.xlsx file
 
 ![reporttask2](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/f862fa3f-9c98-4aca-9b0f-7e81083a22dc)
+
+Report.xlsx file
+
+![Reportinside](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/6c58cb20-8ac2-42c9-91dd-934a9d7fb54f)
+
+
 
 <h3>Thank You!</h3>
