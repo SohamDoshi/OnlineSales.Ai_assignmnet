@@ -113,7 +113,7 @@ Use each worksheet as a CSV file and write a script (Bash or Python) that genera
 
 To convert CSV file into data, made uses of pandas and openpyxl.workbook to genrate result into .xlsx file.
 
-Using pandas libary, manage to CSV data into python readable data, by using Merge and Groupby function from liabry
+Using pandas library, manage to CSV data into python readable data, by using Merge and Groupby function from library
 
 established relations between sheets and genrated desired output
 
@@ -132,7 +132,7 @@ established relations between sheets and genrated desired output
 ![rightclick](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/fe9c73a9-be91-4e88-95c5-6c63073b3fe8)
 
 
-4) Use the following command to run or excute the script 
+4) Use the following command to run or execute the script 
 
 command 
 
