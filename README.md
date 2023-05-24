@@ -36,6 +36,7 @@ and then genrated result table will be converted into report.xlsx file and repor
 
 <h4>Requriements</h4>
  1) Python installed on your System
+
  2) MySQL
 
 <h4>Instruction</h4>
@@ -71,6 +72,7 @@ and then genrated result table will be converted into report.xlsx file and repor
    SQL query will will gernate report.xlsx file into Ouput folder inside same folder.
    
    Command -> python task1_SQL.py
+   
    press Enter key
    
    ![command](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/a3377d52-adf9-4b89-9609-6a092747b917)
