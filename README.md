@@ -100,3 +100,38 @@ To convert CSV file into data, made uses of pandas and openpyxl.workbook to genr
 Using pandas libary, manage to CSV data into python readable data, by using Merge and Groupby function from liabry
 
 established relations between sheets and genrated desired output
+
+<h3>How to run the Script?</h3>
+
+<h4>Instruction</h4>
+
+ 1) Download/clone the repository into local system.
+ 
+ 2) Go to Task2_CSV folder where you will find task2_CSV.py file
+
+![Csv_py](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/3e0f4f1d-4e97-4d63-ab73-a4faa7b88246)
+
+ 3) Open CMD or PowerShell in that folder (perss shift + right click to open powerShell)
+
+![rightclick](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/fe9c73a9-be91-4e88-95c5-6c63073b3fe8)
+
+
+4) Use the following command to run or excute the script 
+
+command -> python task2_CSV.py
+
+and hit Enter key
+
+![pycommand](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/d542e813-ce00-4d4c-95cc-9928ec7c0459)
+
+Ater sucessful excecution you will get this message.
+
+![afterCommand](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/4e1e19b3-b7f1-4774-a08f-076a1c63d00b)
+
+And Output folder will be created in your Task2_CVS folder like this
+
+![Outputtask2](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/6bf74f71-4833-4c6e-af0f-aa44f1994beb)
+
+Inside this output folder you will find report.xlsx file
+
+![reporttask2](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/f862fa3f-9c98-4aca-9b0f-7e81083a22dc)
