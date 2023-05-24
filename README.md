@@ -1,5 +1,5 @@
 # OnlineSales.Ai_assignmnet
-Task_1 SQL
+<h2>Task_1 SQL</h2>
 
 Use each worksheet as a table in a relational database and write an SQL query that generates the output report.
 
@@ -32,13 +32,13 @@ and insert data into tables
 and then sricpt will perfome above SQL qeury on database/tables to Fetch top 3 departments along with their name and average monthly salary
 and then genrated result table will be converted into report.xlsx file and report.xlsx will be saved into Ouput folder in the same directory as script
 
-How to run the Script?
+<h2>How to run the Script?</h2>
 
-Requriements
+<h4>Requriements</h4>
  1) Python installed on your System
  2) MySQL
 
-Instruction
+<h4>Instruction</h4>
 
 1) Download/clone this repository to your local computer
 
