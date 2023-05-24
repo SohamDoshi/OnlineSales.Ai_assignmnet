@@ -28,18 +28,18 @@ Below is SQL query for the above task
         
         
 But, I wrote a python script which will convert worksheet.xlsx file into relational MySQL database tables
-and insert data into tables
-and then sricpt will perfome above SQL qeury on database/tables to Fetch top 3 departments along with their name and average monthly salary
-and then genrated result table will be converted into report.xlsx file and report.xlsx will be saved into Ouput folder in the same directory as script
+then it will insert data into tables
+and after that script will perfome above SQL query on database/tables to fetch top 3 departments along with their name and average monthly salary,
+genrated result table will be converted into report.xlsx file and which will be saved into Output folder in the same directory as script
 
 <h2>How to run the Script?</h2>
 
-<h4>Requriements</h4>
+<h4>Requirements</h4>
  1) Python installed on your System
 
  2) MySQL
 
-<h4>Instruction</h4>
+<h4>Instructions</h4>
 
 1) Download/clone this repository to your local computer
 
@@ -48,12 +48,12 @@ and then genrated result table will be converted into report.xlsx file and repor
 ![fileSQL](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/e82bd6b2-cf0c-413d-a04b-01519d0b0a50)
 
 3) Open task1_SQL.py with Code Editor/IDE 
-4) Change MySQL database Name , Username, Password according to local System.
+4) Change MySQL database Name, Username, Password according to local System.
 
 ![mySQL](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/4071b26a-c23e-4d5a-bace-a56ea1248895)
 
-5) Save the changes and do not change anything another than that.
-6) Now open CMD as Administrator excute following command to install pandas and openpyxl libary
+5) Save the changes and do not change anything other than that.
+6) Now open CMD as Administrator execute following command to install pandas and openpyxl library 
    
     a) pip install pandas
     
@@ -63,13 +63,13 @@ and then genrated result table will be converted into report.xlsx file and repor
     
     *Don't forget to create database in your MySQL.
 
-7) after sucessfully installing liabries close the CMD.
+7) after sucessfully installation libraries close the CMD.
 8) Go to Task1_SQL folder where "task1_SQL.py" python file is and open CMD or PowerShell in that folder using shift + right click
 
 ![powerShell](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/576801bb-b534-4dd9-9604-d70ac59b7b95)
 
-9) In PowerShell or CMD Enter following command to run the python script and this genrate tables in your database and using
-   SQL query will will gernate report.xlsx file into Ouput folder inside same folder.
+9) In PowerShell or CMD Enter following command to run the python script and this will generate tables in your database and script will use above
+SQL query to create result table fetch report.xlsx file into Output folder inside same folder.
    
    Command -> python task1_SQL.py
    
