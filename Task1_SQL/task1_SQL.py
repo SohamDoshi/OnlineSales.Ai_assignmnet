@@ -14,7 +14,7 @@ conn = mysql.connector.connect(
 )
 
 # Converting Departments.xlsx(excel file) to Database table deparments(MySQL)
-def convert_excel_to_database(file_path):
+def convert_Depart_excel_to_database(file_path):
     # Read the Excel file into a pandas DataFrame
     excel_data = pd.read_excel(file_path, sheet_name=None)
 
@@ -157,7 +157,7 @@ def convert_Sala_excel_to_database(file_path):
 
 
 # Example usage
-convert_excel_to_database('Departments.xlsx')
+convert_Depart_excel_to_database('Departments.xlsx')
 convert_Emp_excel_to_database('Employees.xlsx')
 convert_Sala_excel_to_database('Salaries.xlsx')
 print("Excel data successfully imported into the MySQL database.")
