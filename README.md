@@ -87,4 +87,16 @@ Report.xlxs file
 
 ![reportxx](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/5fecac08-43f2-4100-8c10-f56e85759ec0)
 
+<h2>Task 2 Script</h2>
 
+<h4>Task</h4>
+
+Use each worksheet as a CSV file and write a script (Bash or Python) that generates the same report. Data is to be read from the CSV files not from a database.
+
+<h4>Solution</h4>
+
+To convert CSV file into data, made uses of pandas and openpyxl.workbook to genrate result into .xlsx file.
+
+Using pandas libary, manage to CSV data into python readable data, by using Merge and Groupby function from liabry
+
+established relations between sheets and genrated desired output
