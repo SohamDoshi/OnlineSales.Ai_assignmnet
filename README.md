@@ -32,8 +32,10 @@ then it will insert data into tables
 and after that script will perfome above SQL query on database/tables to fetch top 3 departments along with their name and average monthly salary,
 genrated result table will be converted into report.xlsx file and which will be saved into Output folder in the same directory as script.
 
-<h2>How to run the Script?</h
+<h2>How to run the Script?</h2>
+
 <h4>Requirements</h4>
+
  1) Python installed on your System
 
  2) MySQL
@@ -47,11 +49,13 @@ genrated result table will be converted into report.xlsx file and which will be 
 ![fileSQL](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/e82bd6b2-cf0c-413d-a04b-01519d0b0a50)
 
 3) Open task1_SQL.py with Code Editor/IDE 
+ 
 4) Change MySQL database Name, Username, Password according to local System.
 
 ![mySQL](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/4071b26a-c23e-4d5a-bace-a56ea1248895)
 
 5) Save the changes and do not change anything other than that.
+ 
 6) Now open CMD as Administrator execute following command to install pandas and openpyxl library 
    
    To install Pandas 
@@ -75,6 +79,7 @@ genrated result table will be converted into report.xlsx file and which will be 
     *Don't forget to create database in your MySQL.
 
 7) after sucessfully installation libraries close the CMD.
+ 
 8) Go to Task1_SQL folder where "task1_SQL.py" python file is and open CMD or PowerShell in that folder using shift + right click
 
 ![powerShell](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/576801bb-b534-4dd9-9604-d70ac59b7b95)
@@ -155,3 +160,5 @@ And Output folder will be created in your Task2_CVS folder like this
 Inside this output folder you will find report.xlsx file
 
 ![reporttask2](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/f862fa3f-9c98-4aca-9b0f-7e81083a22dc)
+
+<h3>Thank You!</h3>
