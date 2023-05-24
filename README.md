@@ -30,10 +30,9 @@ Below is SQL query for the above task
 But, I wrote a python script which will convert worksheet.xlsx file into relational MySQL database tables
 then it will insert data into tables
 and after that script will perfome above SQL query on database/tables to fetch top 3 departments along with their name and average monthly salary,
-genrated result table will be converted into report.xlsx file and which will be saved into Output folder in the same directory as script
+genrated result table will be converted into report.xlsx file and which will be saved into Output folder in the same directory as script.
 
-<h2>How to run the Script?</h2>
-
+<h2>How to run the Script?</h
 <h4>Requirements</h4>
  1) Python installed on your System
 
@@ -55,11 +54,23 @@ genrated result table will be converted into report.xlsx file and which will be 
 5) Save the changes and do not change anything other than that.
 6) Now open CMD as Administrator execute following command to install pandas and openpyxl library 
    
-    a) pip install pandas
+   To install Pandas 
+   ```
+     pip install pandas
+   ```
+   
+   To install openpyxl
+   
+   ```
+    pip install openpyxl
+   ```
+   
+   To install MySQL connecter for python (To connect with the database(MySQL))
+   
+   ```
+    pip install mysql-connector-python 
     
-    b) pip install openpyxl
-    
-    c) pip install mysql-connector-python (To connect with the database(MySQL))
+    ```
     
     *Don't forget to create database in your MySQL.
 
@@ -68,10 +79,13 @@ genrated result table will be converted into report.xlsx file and which will be 
 
 ![powerShell](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/576801bb-b534-4dd9-9604-d70ac59b7b95)
 
-9) In PowerShell or CMD Enter following command to run the python script and this will generate tables in your database and script will use above
-SQL query to create result table fetch report.xlsx file into Output folder inside same folder.
+9) In PowerShell or CMD Enter following command to run the python script and this will generate tables in your database and insert data accordingly, script will use above SQL query will genrate result table after it will exported to report.xlsx file into Output folder inside same as script folder.
    
-   Command -> python task1_SQL.py
+   Command 
+   ```
+   python task1_SQL.py
+   
+   ```
    
    press Enter key
    
@@ -120,8 +134,12 @@ established relations between sheets and genrated desired output
 
 4) Use the following command to run or excute the script 
 
-command -> python task2_CSV.py
+command 
 
+```
+python task2_CSV.py
+
+```
 and hit Enter key
 
 ![pycommand](https://github.com/SohamDoshi/OnlineSales.Ai_assignmnet/assets/106314995/d542e813-ce00-4d4c-95cc-9928ec7c0459)
